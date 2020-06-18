@@ -11,7 +11,7 @@
 <body>
 
 <div class="container">
-  <h2>Vertical (basic) forms</h2>
+  <h2>Vertical (basic) forms Create</h2>
   <form  name="add-blog-form" action="<?php echo site_url('blog/save');?>" method="post">
     <div class="form-group">
       <label for="title">Title:</label>
